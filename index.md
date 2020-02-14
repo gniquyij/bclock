@@ -6,7 +6,7 @@ Most likely, it would be thrown out, then there would be another bclock, then pe
 
 I do not have confidence to say I will not forget it but I do want to keep this old friend in some way, physically. And that's why here're the [scripts](https://github.com/vjyq/bclock).
 
-2 steps to make bclock alarm hourly on PC:
+2 steps to have bclock on PC:
 
 1. get the code in local[^1]
 ```
