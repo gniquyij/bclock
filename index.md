@@ -25,4 +25,4 @@ Wish bclock forever.
 
 ---
 
-[^1]: [bclock](https://github.com/vjyq/bclock) is still using a testing sound `test.m4a`. I will update it with real bclock sound.
+[^1]: [bclock](https://github.com/vjyq/bclock) is still using sound `test.m4a` for testing. I will update it with real bclock sound.
