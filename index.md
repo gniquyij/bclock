@@ -14,8 +14,9 @@ git clone https://github.com/vjyq/bclock.git
 ```
 
 2. set the hourly alarm
-`crontab -e` then vi input and save:
 ```
+# `crontab -e` then vi input and save:
+
 0 * * * * /Users/<user-name>/bclock/time.sh   # get <user-name> via $ whoami
 ```
 
