@@ -13,7 +13,7 @@ I do not have confidence to say I will not forget it but I do want to keep this 
 git clone https://github.com/vjyq/bclock.git
 ```
 
-2. Set the hourly alarm. `crontab -e` then vi input and save:
+2. Set an hourly chime. `crontab -e` then vi input and save:
 ```
 0 * * * * /Users/<user-name>/bclock/bclock.sh   # get <user-name> via $ whoami
 ```
