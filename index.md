@@ -22,8 +22,6 @@ Wish bclock forever.
 
 ![pic of bclock]('')
 
----
-
 [^1]: [bclock](https://github.com/vjyq/bclock) is still using sound `test.m4a` for testing. I will update it with real bclock sound.
 
 <br>
