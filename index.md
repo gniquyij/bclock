@@ -25,3 +25,7 @@ Wish bclock forever.
 ---
 
 [^1]: [bclock](https://github.com/vjyq/bclock) is still using sound `test.m4a` for testing. I will update it with real bclock sound.
+
+<br>
+<div style="border-top:1px solid #e1e4e8;padding-top:0.3em">@2018-2020 YUQING JI</div>
+<div><a href="https://vjyq.github.io/">Blog</a> - <a href="mailto:yuqing.ji@outlook.com">Email</a> - <a href="https://github.com/vjyq">Github</a></div>
