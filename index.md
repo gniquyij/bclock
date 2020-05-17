@@ -20,7 +20,13 @@ git clone https://github.com/vjyq/bclock.git
 
 Wish bclock forever.
 
-![pic of bclock]('')
+![pic of bclock]('./bclock.jpeg')
+
+The bclock. I bought in 1963 with RMB 40.1, my grandma said. 
+
+![pic of bclock]('./bclock_key.jpeg')
+
+The key of bclock.
 
 <div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
