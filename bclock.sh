@@ -7,5 +7,5 @@ i=`whoami`
 while [ $t -gt $n ]
 do
   n=$(($n+1))
-  afplay /Users/$i/bclock/test.m4a
+  afplay /Users/$i/bclock/bclock.aac
 done
