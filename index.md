@@ -20,11 +20,11 @@ git clone https://github.com/vjyq/bclock.git
 
 Wish bclock forever.
 
-![bclock]('./bclock.jpeg')
+![bclock]('bclock.jpeg')
 
 The bclock. I bought in 1963 with RMB 40.1, my grandma said. 
 
-![bclock-key]('./bclock-key.jpeg')
+![bclock-key]('bclock-key.jpeg')
 
 The key of bclock.
 
