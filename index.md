@@ -10,7 +10,7 @@ I do not have confidence to say I will not forget it but I do want to keep this 
 
 1. Get the code in local.
 ```
-git clone https://github.com/vjyq/bclock.git
+$ git clone https://github.com/vjyq/bclock.git
 ```
 
 2. Set an hourly chime. `crontab -e` then vi input and save:
