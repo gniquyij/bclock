@@ -4,13 +4,13 @@ There's a clock in my grandparents' house. It's been called 'broken clock' ('bcl
 
 Most likely, it would be thrown out, then there would be another bclock, then people would forget it.
 
-I do not have confidence to say I will not forget it but I do want to keep this old friend in some way, physically. And that's why here're the [scripts](https://github.com/vjyq/bclock).
+I do not have confidence to say I will not forget it but I do want to keep this old friend in some way, physically. And that's why here're the [scripts](https://github.com/gniquyij/bclock).
 
 2 steps to have bclock on PC:
 
 1. Get the code in local.
 ```
-$ git clone https://github.com/vjyq/bclock.git
+$ git clone https://github.com/gniquyij/bclock.git
 ```
 
 2. Set an hourly chime. `crontab -e` then vi input and save:
@@ -28,6 +28,6 @@ The bclock. I bought in 1963 with RMB 40.1, my grandma said.
 
 The key of bclock.
 
-<div><a href="https://vjyq.github.io/daily"><img src="https://github.com/vjyq/vjyq.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div><a href="https://gniquyij.github.io/daily"><img src="https://github.com/gniquyij/gniquyij.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="https://vjyq.github.io/en/about">About</a> | <a href="https://vjyq.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a> | <a href="https://vjyq.github.io/zh">中文</a></div>
+<div style="padding-top:0.3em"><a href="https://gniquyij.github.io/en/about">About</a> | <a href="https://gniquyij.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/gniquyij">Github</a> | <a href="https://gniquyij.github.io/zh">中文</a></div>
